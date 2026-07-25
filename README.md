@@ -1,17 +1,17 @@
-<a href="https://github.com/Wildanae123/Wildanae123/releases" target="_blank">
-  <img src="https://img.shields.io/github/v/release/Wildanae123/Wildanae123?style=for-the-badge&label=Latest%20Release&labelColor=141321&color=ff008c" alt="Latest Release" />
+<a href="https://github.com/andikamikaze/andikamikaze/releases" target="_blank">
+  <img src="https://img.shields.io/github/v/release/andikamikaze/andikamikaze?style=for-the-badge&label=Latest%20Release&labelColor=141321&color=ff008c" alt="Latest Release" />
 </a>
 
 ![alt text](Images/Mario-Bross-Banner.gif)
 
 <p align="center" id="visitor-badge">
-  <a href="https://u8views.com/github/Wildanae123">
+  <a href="https://u8views.com/github/andikamikaze">
     <img src="https://u8views.com/api/v1/github/profiles/104717412/views/day-week-month-total-count.svg">
   </a>
   <br/>
   <br/>
-  <a href="https://github.com/Wildanae123?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Wildanae123?label=Followers&style=for-the-badge&labelColor=141321&color=ff008c">
+  <a href="https://github.com/andikamikaze?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/andikamikaze?label=Followers&style=for-the-badge&labelColor=141321&color=ff008c">
   </a>
 </p>
 
@@ -59,23 +59,23 @@
 ## 🔝 Top Repo
 
 <p align="center">
-  <a href="https://github.com/Wildanae123/Proyek-Todo-Apps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
+  <a href="https://github.com/andikamikaze/Proyek-Todo-Apps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikamikaze&repo=Proyek-Todo-Apps&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
   </a>
-  <a href="https://github.com/Wildanae123/Implementasi-Web-Storage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wildanae123&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
+  <a href="https://github.com/andikamikaze/Implementasi-Web-Storage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andikamikaze&repo=Implementasi-Web-Storage&border_color=ee3e86&bg_color=141321&title_color=ee3e86&text_color=8bcecc&icon_color=7F3FBF" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/Wildanae123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=ff008c&logo=fork&labelColor=141321&color=141321" /></a>
+  <a href="https://github.com/andikamikaze?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=ff008c&logo=fork&labelColor=141321&color=141321" /></a>
 </p>
 <br/>
 
 ## 👑 Top Contributed Repo
 
 <p align="center">
-  <a href="https://github.com/Wildanae123">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wildanae123&theme=radical" alt="GitHub Contribution"/>
+  <a href="https://github.com/andikamikaze">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikamikaze&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 <br/>
@@ -83,14 +83,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Wildanae123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wildanae123&theme=radical&border=ee3e86&background=141321&date_format=j%20M%5B%20Y%5D&order=3" alt="GitHub streak"/>
+  <a href="https://github.com/andikamikaze">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikamikaze&theme=radical&border=ee3e86&background=141321&date_format=j%20M%5B%20Y%5D&order=3" alt="GitHub streak"/>
   </a>
-  <a href="https://github.com/Wildanae123">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Wildanae123&show_icons=true&count_private=true&theme=radical&border_color=ee3e86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" alt="Github Stats"/>
+  <a href="https://github.com/andikamikaze">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=andikamikaze&show_icons=true&count_private=true&theme=radical&border_color=ee3e86&bg_color=141321&title_color=EE3E86&icon_color=F4D546" alt="Github Stats"/>
   </a>
-  <a href="https://github.com/Wildanae123">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Wildanae123&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F8D866" height="160px" width="49%" alt="Top Languages"/>
+  <a href="https://github.com/andikamikaze">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=andikamikaze&langs_count=10&layout=compact&theme=radical&border_color=EE3E86&bg_color=141321&title_color=EE3E86&icon_color=F8D866" height="160px" width="49%" alt="Top Languages"/>
   </a>
   <a href="https://leetcode.com/Wildanae/">
     <img src="https://leetcode-stats.vercel.app/api?username=Wildanae&theme=Dark" alt="Leetcode Stats"/>
@@ -101,13 +101,13 @@
 ## 📈 GitHub Activity Graph:
 
 <p align="center">
-  <a href="https://github.com/Wildanae123">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wildanae123&radius=10&theme=dracula&area=true&order=5&custom_title=Wildanae123%20GitHub%20Activity%20Graph&bg_color=141321&color=8bcecc&title_color=ee3e86&line=ee3e86&point=8bcecc&area_color=ee3e86" alt="Activity Graph"/>
+  <a href="https://github.com/andikamikaze">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikamikaze&radius=10&theme=dracula&area=true&order=5&custom_title=andikamikaze%20GitHub%20Activity%20Graph&bg_color=141321&color=8bcecc&title_color=ee3e86&line=ee3e86&point=8bcecc&area_color=ee3e86" alt="Activity Graph"/>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Wildanae123/Wildanae123/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikamikaze/andikamikaze/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andikamikaze/andikamikaze/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/andikamikaze/andikamikaze/output/snake.svg" />
   </picture>
 </p>
 <br/>
